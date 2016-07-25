@@ -1,0 +1,6 @@
+blocks:
+    custom:
+        views:
+            custom:
+                template: MyNewNamespaceBundle::custom.html.twig
+                name: My Custom Block view

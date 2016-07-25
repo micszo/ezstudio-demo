@@ -38,6 +38,7 @@ class AppKernel extends Kernel
             new eZ\Bundle\EzPublishIOBundle\EzPublishIOBundle(),
             new eZ\Bundle\EzPublishRestBundle\EzPublishRestBundle(),
             new EzSystems\CommentsBundle\EzSystemsCommentsBundle(),
+            new MyNewNamespaceBundle\MyNewNamespaceBundle(),
             new EzSystems\LandingPageFieldTypeBundle\EzSystemsLandingPageFieldTypeBundle(),
             new EzSystems\StudioUIBundle\EzSystemsStudioUIBundle(),
             new EzSystems\StudioDemoBundle\EzSystemsStudioDemoBundle(),

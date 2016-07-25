@@ -1,0 +1,10 @@
+#services:
+#    my_new_namespace.example:
+#        class: MyNewNamespaceBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
+
+services:
+    my.block.custom:
+        class: MyNewNamespaceBundle\Block\CustomBlock
+        tags:
+            - { name: landing_page_field_type.block_type, alias: custom }

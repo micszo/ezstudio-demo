@@ -1,0 +1,3 @@
+my_new_namespace_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: MyNewNamespaceBundle:Default:index }
