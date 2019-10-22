@@ -61,7 +61,7 @@
         "ezsystems/ezplatform-standard-design": "^0.2@dev",
         "ezsystems/ezplatform-user": "^1.0@dev",
         "ezsystems/ezplatform-workflow": "^1.1@dev",
-        "ezsystems/ezpublish-kernel": "^7.5@dev",
+        "ezsystems/ezpublish-kernel": "dev-ezp_31023 as 7.5.x-dev",
         "ezsystems/ezstudio-personalized-block": "^3.0@dev",
         "ezsystems/flex-workflow": "^3.2@dev",
         "ezsystems/ezrecommendation-client": "^1.0@dev",
